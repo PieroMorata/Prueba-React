@@ -1,0 +1,15 @@
+.header-div {
+  background-color: rgba(95, 158, 160, 0.926);
+  padding: 1rem 1rem 0.35rem 1rem;
+  color: white;
+}
+
+.pokeball-img {
+  height: 10rem;
+  width: 10rem;
+  text-align: center;
+}
+
+.pokeball-div {
+  text-align: center;
+}
